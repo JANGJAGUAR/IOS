@@ -1,3 +1,3 @@
 # IOS
-IOS project
+IOS project(Swift)
  - Planner_project
